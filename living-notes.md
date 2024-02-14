@@ -26,6 +26,9 @@ editor_options:
 
     -   Start with github/username/new (starting repo first - see
         <https://happygitwithr.com/new-github-first> )
+        -   Can also use `usethis::use_github()` if you have credentials set up
+        -   See `?usethis::use_github()` for more details on the arguments
+            (e.g., you might want to set an organisation to push to for example
     -   Consider using the gh command line to also manage github things like
         creating issues or cloning repositories locally, viewing issues etc. See
         <https://github.com/cli/cli> for instructions
