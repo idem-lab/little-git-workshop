@@ -115,21 +115,27 @@ editor_options:
             -   This changes to main branch, pulls from main, and then deletes
                 remote and local branches.
 
-## Notes on using issues to track ideas / tasks
+-   When to make a branch in the context of research workflow
 
--   It's not always possible to break things down into discrete issues
+    -   one issue, one branch (ideally)
 
--   Research tasks don't always align well with being able to have small
-    discrete tasks
+    -   make a branch to solve an issue
 
--   But it can be useful to think about these principles and think about how we
-    can apply them. Striving towards these ideas can get you a lot of the way
-    towards improving how you approach a problem.
+## Using issues and github "discussions" to track ideas and tasks
 
--   If we can understand how we can apply these principles to our own work
+-   It's not always possible to break things down into discrete issues -
+    research tasks don't always align well with being able to have small
+    discrete tasks. But striving towards the principles of setting one issue per
+    concrete task I believe is a useful exercise, as I think it can get you a
+    lot of the way towards improving how you approach a problem
 
--   Imagine "branches" or other ideas that require changes, try to get at the
-    idea of "when to make a branch" in the context of a research workflow
+-   Issues can sometimes turn into places for active discussion - one option is
+    to setup "discussions" on a github repo. These can be turned on inside
+    "settings"
+
+-   Issues can be converted into discussion topics
+
+-   Discussion topics can be converted into issues
 
 # Other fun videos/resources
 
